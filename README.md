@@ -5,7 +5,6 @@ This is a simplified replica of the Bash shell for UNIX.
 
 Feature List:
 
-newt: Opens a new instance of the program (Ensure that Xterm is installed on your system)
 #: Text file concatenation
 |: Piping
 >: Redirects output to a file
@@ -15,6 +14,7 @@ newt: Opens a new instance of the program (Ensure that Xterm is installed on you
 ||: Conditional Execution (execute next command if the previous one fails)
 &: Background Processing
 ;: Sequential Execution
+newt: Opens a new instance of the program (Ensure that Xterm is installed on your system)
 
 
 For additional details please refer to the comments written inside the program.
